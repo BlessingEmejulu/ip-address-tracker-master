@@ -13,3 +13,6 @@
 
 # Avoid your project being littered with annoying .DS_Store files!
 .DS_Store
+
+# Ignore the config.js file to keep the API key private
+config.js
