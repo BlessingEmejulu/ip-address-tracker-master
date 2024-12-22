@@ -1,0 +1,25 @@
+:root {
+    --Very-Dark-Gray: hsl(0, 0%, 17%);
+    --Dark-Gray: hsl(0, 0%, 59%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.header {
+    background-image: url(../images/bg-header-mobile.png);
+   background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}   
