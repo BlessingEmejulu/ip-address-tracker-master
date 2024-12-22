@@ -15,4 +15,4 @@
 .DS_Store
 
 # Ignore the config.js file to keep the API key private
-config.js
+config.jsscripts/config.js
